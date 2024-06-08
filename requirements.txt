@@ -1,0 +1,6 @@
+pdfplumber
+openpyxl
+pandas
+python-docx
+google-generativeai
+PyPDF2
