@@ -4,3 +4,4 @@ pandas
 python-docx
 google-generativeai
 PyPDF2
+python-dotenv
